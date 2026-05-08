@@ -1,0 +1,1 @@
+pnputil /add-driver C:\Drivers\*.inf /subdirs /install
